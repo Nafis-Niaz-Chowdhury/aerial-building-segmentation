@@ -54,7 +54,7 @@ In dense blocks of small, closely packed houses the model finds the right areas 
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/<your-username>/aerial-building-segmentation.git
+git clone https://github.com/<Nafis-Niaz-Chowdhury>/aerial-building-segmentation.git
 cd aerial-building-segmentation
 
 # 2. (Optional) create a virtual environment
